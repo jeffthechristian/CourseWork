@@ -19463,3 +19463,272 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.16-20.17.54:273][494]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.16-20.17.54:273][494]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.16-20.17.54:273][494]AssetCheck: /Game/Characters/Player/Animations/AP_Player Validating asset
+[2024.12.16-20.21.45:347][504]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12049.286133
+[2024.12.16-20.21.45:632][521]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.16-20.21.45:632][521]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12049.553711, Update Interval: 349.897766
+[2024.12.16-20.24.33:555][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.12.16-20.24.35:177][581]LogSlate: Window 'Save Content' being destroyed
+[2024.12.16-20.24.35:190][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.16-20.24.35:282][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar15_1] ([1] browsable assets)...
+[2024.12.16-20.24.35:283][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar15_1]
+[2024.12.16-20.24.35:283][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/AR-15_style_rifle/ar15_1" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar15_1.uasset" SILENT=true
+[2024.12.16-20.24.35:286][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar15_1
+[2024.12.16-20.24.35:286][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar15_1AC4CDB664CFF10B8F2895FA815CB0CD9.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar15_1.uasset'
+[2024.12.16-20.24.35:294][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_2] ([1] browsable assets)...
+[2024.12.16-20.24.35:295][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_2]
+[2024.12.16-20.24.35:295][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/AR-15_style_rifle/ar_15_2" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_2.uasset" SILENT=true
+[2024.12.16-20.24.35:297][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_2
+[2024.12.16-20.24.35:297][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_2250B970C4AFD01A8A9048AB0773CC3A0.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_2.uasset'
+[2024.12.16-20.24.35:299][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_0] ([1] browsable assets)...
+[2024.12.16-20.24.35:299][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_0]
+[2024.12.16-20.24.35:424][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_0
+[2024.12.16-20.24.35:424][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_style_rifle_texture_042809E9C4AEB7C88062E2599AEB85A4E.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_0.uasset'
+[2024.12.16-20.24.35:432][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_1] ([1] browsable assets)...
+[2024.12.16-20.24.35:432][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_1]
+[2024.12.16-20.24.35:623][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_1
+[2024.12.16-20.24.35:623][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_style_rifle_texture_185B3C71A4BD2F671689C71A7D20965DC.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_1.uasset'
+[2024.12.16-20.24.35:626][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_10] ([1] browsable assets)...
+[2024.12.16-20.24.35:626][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_10]
+[2024.12.16-20.24.35:665][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_10
+[2024.12.16-20.24.35:665][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_style_rifle_texture_104427D70B466C82997103D7BC5959BBE0.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_10.uasset'
+[2024.12.16-20.24.35:670][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_11] ([1] browsable assets)...
+[2024.12.16-20.24.35:670][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_11]
+[2024.12.16-20.24.35:718][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_11
+[2024.12.16-20.24.35:718][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_style_rifle_texture_11E5DE78404282E1D4B4CE0B8F1CBAFC08.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_11.uasset'
+[2024.12.16-20.24.35:721][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_12] ([1] browsable assets)...
+[2024.12.16-20.24.35:721][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_12]
+[2024.12.16-20.24.35:875][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_12
+[2024.12.16-20.24.35:875][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_style_rifle_texture_12E647E10348C6CFF2D5DC3C89D8EE5C0B.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_12.uasset'
+[2024.12.16-20.24.35:878][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_13] ([1] browsable assets)...
+[2024.12.16-20.24.35:878][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_13]
+[2024.12.16-20.24.36:020][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_13
+[2024.12.16-20.24.36:020][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_style_rifle_texture_138A20B04E441589D4E14BB3AF7AF77EEA.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_13.uasset'
+[2024.12.16-20.24.36:023][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_14] ([1] browsable assets)...
+[2024.12.16-20.24.36:023][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_14]
+[2024.12.16-20.24.36:216][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_14
+[2024.12.16-20.24.36:216][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_style_rifle_texture_14308C30A347C253F6A731BEA13CD04127.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_14.uasset'
+[2024.12.16-20.24.36:218][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_2] ([1] browsable assets)...
+[2024.12.16-20.24.36:218][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_2]
+[2024.12.16-20.24.36:456][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_2
+[2024.12.16-20.24.36:456][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_style_rifle_texture_296122D5143DCFA32CAB2CEB1231012D4.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_2.uasset'
+[2024.12.16-20.24.36:458][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_3] ([1] browsable assets)...
+[2024.12.16-20.24.36:458][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_3]
+[2024.12.16-20.24.36:560][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_3
+[2024.12.16-20.24.36:560][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_style_rifle_texture_3EF5030CF4AA814458E548092E42604E0.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_3.uasset'
+[2024.12.16-20.24.36:562][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_4] ([1] browsable assets)...
+[2024.12.16-20.24.36:562][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_4]
+[2024.12.16-20.24.36:751][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_4
+[2024.12.16-20.24.36:751][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_style_rifle_texture_48881435F426271C225C961BAB75D8236.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_4.uasset'
+[2024.12.16-20.24.36:753][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_5] ([1] browsable assets)...
+[2024.12.16-20.24.36:753][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_5]
+[2024.12.16-20.24.36:999][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_5
+[2024.12.16-20.24.36:999][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_style_rifle_texture_5C7276C524C8231102107F9944911646E.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_5.uasset'
+[2024.12.16-20.24.37:001][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_6] ([1] browsable assets)...
+[2024.12.16-20.24.37:001][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_6]
+[2024.12.16-20.24.37:133][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_6
+[2024.12.16-20.24.37:133][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_style_rifle_texture_6DE51089E49D631A9643C098BD3D2F947.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_6.uasset'
+[2024.12.16-20.24.37:136][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_7] ([1] browsable assets)...
+[2024.12.16-20.24.37:136][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_7]
+[2024.12.16-20.24.37:390][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_7
+[2024.12.16-20.24.37:390][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_style_rifle_texture_761B95C574763BC067316B391386939C2.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_7.uasset'
+[2024.12.16-20.24.37:392][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_8] ([1] browsable assets)...
+[2024.12.16-20.24.37:392][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_8]
+[2024.12.16-20.24.37:468][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_8
+[2024.12.16-20.24.37:468][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_style_rifle_texture_8D52F52FF43EF54663C8D99B8AF826C11.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_8.uasset'
+[2024.12.16-20.24.37:470][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_9] ([1] browsable assets)...
+[2024.12.16-20.24.37:470][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_9]
+[2024.12.16-20.24.37:683][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_9
+[2024.12.16-20.24.37:683][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ar_15_style_rifle_texture_953F41E5C4F5FE4CD7AE92EA27CD29CC4.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_9.uasset'
+[2024.12.16-20.24.37:687][581]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/FW/3DPE2BCTU9XXR8QM7Q3R69
+[2024.12.16-20.24.37:687][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/3DPE2BCTU9XXR8QM7Q3R69CBACD8954FC3C5AD9A0A5EB6B1F36D06.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/FW/3DPE2BCTU9XXR8QM7Q3R69.uasset'
+[2024.12.16-20.24.37:690][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/bullets] ([1] browsable assets)...
+[2024.12.16-20.24.37:690][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/bullets]
+[2024.12.16-20.24.37:690][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/AR-15_style_rifle/bullets" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/bullets.uasset" SILENT=true
+[2024.12.16-20.24.37:691][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/bullets
+[2024.12.16-20.24.37:691][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/bullets8C061B0C43953EA85AFC558B1685CAF7.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/bullets.uasset'
+[2024.12.16-20.24.37:693][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/material] ([1] browsable assets)...
+[2024.12.16-20.24.37:693][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/material]
+[2024.12.16-20.24.37:693][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/AR-15_style_rifle/material" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/material.uasset" SILENT=true
+[2024.12.16-20.24.37:696][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/material
+[2024.12.16-20.24.37:696][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/material5AFB4370461817B77CA3A5A7D5622235.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/material.uasset'
+[2024.12.16-20.24.37:698][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/AR-15_style_rifle/optic_001] ([1] browsable assets)...
+[2024.12.16-20.24.37:698][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/AR-15_style_rifle/optic_001]
+[2024.12.16-20.24.37:698][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/AR-15_style_rifle/optic_001" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/optic_001.uasset" SILENT=true
+[2024.12.16-20.24.37:700][581]LogSavePackage: Moving output files for package: /Game/Fab/AR-15_style_rifle/optic_001
+[2024.12.16-20.24.37:700][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/optic_00182675A9745EE9D8FC12E12AFF0FBD4C6.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Fab/AR-15_style_rifle/optic_001.uasset'
+[2024.12.16-20.24.37:701][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Player/Animations/WithGunAim/Rifle_Aiming_Idle] ([1] browsable assets)...
+[2024.12.16-20.24.37:702][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/Animations/WithGunAim/Rifle_Aiming_Idle]
+[2024.12.16-20.24.37:709][581]LogSavePackage: Moving output files for package: /Game/Characters/Player/Animations/WithGunAim/Rifle_Aiming_Idle
+[2024.12.16-20.24.37:709][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/Rifle_Aiming_Idle97FA02564778ED0F890A7891A6028559.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Player/Animations/WithGunAim/Rifle_Aiming_Idle.uasset'
+[2024.12.16-20.24.37:725][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Player/Animations/WithGunNoAim/Rifle_Idle] ([1] browsable assets)...
+[2024.12.16-20.24.37:725][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/Animations/WithGunNoAim/Rifle_Idle]
+[2024.12.16-20.24.37:732][581]LogSavePackage: Moving output files for package: /Game/Characters/Player/Animations/WithGunNoAim/Rifle_Idle
+[2024.12.16-20.24.37:732][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/Rifle_Idle168EC3AB48E80E9069887C827D876080.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Player/Animations/WithGunNoAim/Rifle_Idle.uasset'
+[2024.12.16-20.24.37:745][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Player/Animations/WithGunAim/Rifle_Run] ([1] browsable assets)...
+[2024.12.16-20.24.37:745][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/Animations/WithGunAim/Rifle_Run]
+[2024.12.16-20.24.37:752][581]LogSavePackage: Moving output files for package: /Game/Characters/Player/Animations/WithGunAim/Rifle_Run
+[2024.12.16-20.24.37:752][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/Rifle_Run6DC8BE804FAF21FB2DE0E387DCF9F4DB.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Player/Animations/WithGunAim/Rifle_Run.uasset'
+[2024.12.16-20.24.37:764][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Player/Animations/WithGunNoAim/Rifle_Run__1_] ([1] browsable assets)...
+[2024.12.16-20.24.37:764][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/Animations/WithGunNoAim/Rifle_Run__1_]
+[2024.12.16-20.24.37:770][581]LogSavePackage: Moving output files for package: /Game/Characters/Player/Animations/WithGunNoAim/Rifle_Run__1_
+[2024.12.16-20.24.37:770][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/Rifle_Run__1_8DA4E0864768D0ABBD031E8C8190E08D.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Player/Animations/WithGunNoAim/Rifle_Run__1_.uasset'
+[2024.12.16-20.24.37:782][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Player/Animations/WithGunNoAim/Rifle_Walk] ([1] browsable assets)...
+[2024.12.16-20.24.37:782][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/Animations/WithGunNoAim/Rifle_Walk]
+[2024.12.16-20.24.37:789][581]LogSavePackage: Moving output files for package: /Game/Characters/Player/Animations/WithGunNoAim/Rifle_Walk
+[2024.12.16-20.24.37:789][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/Rifle_Walk35CF7E8A4425A21420CA439C7029D63F.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Player/Animations/WithGunNoAim/Rifle_Walk.uasset'
+[2024.12.16-20.24.37:801][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Player/Animations/WithGunAim/Walking__1_] ([1] browsable assets)...
+[2024.12.16-20.24.37:801][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/Animations/WithGunAim/Walking__1_]
+[2024.12.16-20.24.37:808][581]LogSavePackage: Moving output files for package: /Game/Characters/Player/Animations/WithGunAim/Walking__1_
+[2024.12.16-20.24.37:808][581]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/Walking__1_C7D6F15345F1699174763BBA3E6C5517.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Player/Animations/WithGunAim/Walking__1_.uasset'
+[2024.12.16-20.24.37:830][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.63 sec (total: 11.6 sec)
+[2024.12.16-20.24.37:899][581]LogStall: Shutdown...
+[2024.12.16-20.24.37:900][581]LogStall: Shutdown complete.
+[2024.12.16-20.24.37:983][581]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.37:983][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.38:352][581]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.38:352][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.38:384][581]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.38:385][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.38:415][581]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.38:416][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.38:631][581]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.38:633][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.38:662][581]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.38:662][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.38:796][581]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.38:796][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.38:870][581]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.16-20.24.38:870][581]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.38:870][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.39:005][581]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.39:005][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.39:030][581]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.39:030][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.39:098][581]LogSlate: Window 'Fab' being destroyed
+[2024.12.16-20.24.39:104][581]LogSlate: Window 'CourseWork - Unreal Editor' being destroyed
+[2024.12.16-20.24.39:568][581]LogContentValidation: Display: Starting to validate 28 assets
+[2024.12.16-20.24.39:568][581]LogContentValidation: Enabled validators:
+[2024.12.16-20.24.39:568][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.16-20.24.39:568][581]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.16-20.24.39:568][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.16-20.24.39:568][581]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.16-20.24.39:568][581]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.16-20.24.39:568][581]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.16-20.24.39:568][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar15_1 Validating asset
+[2024.12.16-20.24.39:568][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_2 Validating asset
+[2024.12.16-20.24.39:568][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_0 Validating asset
+[2024.12.16-20.24.39:568][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_1 Validating asset
+[2024.12.16-20.24.39:568][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_10 Validating asset
+[2024.12.16-20.24.39:568][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_11 Validating asset
+[2024.12.16-20.24.39:568][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_12 Validating asset
+[2024.12.16-20.24.39:568][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_13 Validating asset
+[2024.12.16-20.24.39:568][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_14 Validating asset
+[2024.12.16-20.24.39:568][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_2 Validating asset
+[2024.12.16-20.24.39:568][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_3 Validating asset
+[2024.12.16-20.24.39:568][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_4 Validating asset
+[2024.12.16-20.24.39:568][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_5 Validating asset
+[2024.12.16-20.24.39:569][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_6 Validating asset
+[2024.12.16-20.24.39:569][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_7 Validating asset
+[2024.12.16-20.24.39:569][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_8 Validating asset
+[2024.12.16-20.24.39:569][581]AssetCheck: /Game/Fab/AR-15_style_rifle/ar_15_style_rifle_texture_9 Validating asset
+[2024.12.16-20.24.39:569][581]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2024.12.16-20.24.39:569][581]AssetCheck: /Game/Fab/AR-15_style_rifle/bullets Validating asset
+[2024.12.16-20.24.39:569][581]AssetCheck: /Game/Fab/AR-15_style_rifle/material Validating asset
+[2024.12.16-20.24.39:569][581]AssetCheck: /Game/Fab/AR-15_style_rifle/optic_001 Validating asset
+[2024.12.16-20.24.39:569][581]AssetCheck: /Game/Characters/Player/Animations/WithGunAim/Rifle_Aiming_Idle Validating asset
+[2024.12.16-20.24.39:569][581]AssetCheck: /Game/Characters/Player/Animations/WithGunNoAim/Rifle_Idle Validating asset
+[2024.12.16-20.24.39:569][581]AssetCheck: /Game/Characters/Player/Animations/WithGunAim/Rifle_Run Validating asset
+[2024.12.16-20.24.39:569][581]AssetCheck: /Game/Characters/Player/Animations/WithGunNoAim/Rifle_Run__1_ Validating asset
+[2024.12.16-20.24.39:569][581]AssetCheck: /Game/Characters/Player/Animations/WithGunNoAim/Rifle_Walk Validating asset
+[2024.12.16-20.24.39:569][581]AssetCheck: /Game/Characters/Player/Animations/WithGunAim/Walking__1_ Validating asset
+[2024.12.16-20.24.39:622][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.12.16-20.24.39:649][581]Cmd: QUIT_EDITOR
+[2024.12.16-20.24.39:650][581]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.12.16-20.24.39:664][582]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.12.16-20.24.39:665][582]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.12.16-20.24.39:665][582]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.12.16-20.24.39:669][582]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.39:669][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.39:669][582]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.12.16-20.24.39:702][582]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.12.16-20.24.39:713][582]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.12.16-20.24.39:728][582]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.39:728][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.39:732][582]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.39:732][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.39:735][582]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.39:735][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.39:738][582]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.39:738][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.39:741][582]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.39:741][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.39:744][582]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.39:744][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.39:747][582]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.39:747][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.39:750][582]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.39:750][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.39:754][582]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.39:755][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.39:757][582]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.24.39:757][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.24.39:772][582]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.12.16-20.24.39:786][582]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.12.16-20.24.39:786][582]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.12.16-20.24.39:786][582]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.12.16-20.24.40:747][582]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.12.16-20.24.40:747][582]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.12.16-20.24.40:747][582]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2024.12.16-20.24.40:748][582]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.12.16-20.24.40:749][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.16-20.24.40:757][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.16-20.24.40:803][582]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.12.16-20.24.40:803][582]LogAudio: Display: Audio Device Manager Shutdown
+[2024.12.16-20.24.40:813][582]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.12.16-20.24.40:813][582]LogExit: Preparing to exit.
+[2024.12.16-20.24.40:887][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.12.16-20.24.40:893][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:894][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:906][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:909][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:910][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:910][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:910][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:910][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:910][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:910][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:910][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:911][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:911][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:911][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:911][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:911][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:911][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:911][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:912][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:912][582]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.40:912][582]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.16-20.24.41:322][582]LogEditorDataStorage: Deinitializing
+[2024.12.16-20.24.41:750][582]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.12.16-20.24.42:047][582]LogExit: Editor shut down
+[2024.12.16-20.24.42:077][582]LogExit: Transaction tracking system shut down
+[2024.12.16-20.24.43:110][582]LogExit: Object subsystem successfully closed.
+[2024.12.16-20.24.43:182][582]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.12.16-20.24.45:056][582]LogMemoryProfiler: Shutdown
+[2024.12.16-20.24.45:057][582]LogNetworkingProfiler: Shutdown
+[2024.12.16-20.24.45:057][582]LoadingProfiler: Shutdown
+[2024.12.16-20.24.45:058][582]LogTimingProfiler: Shutdown
+[2024.12.16-20.24.45:121][582]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/9d67f325-8817-4385-9871-02ad21b73a8c.
+[2024.12.16-20.24.46:172][582]LogChaosDD: Chaos Debug Draw Shutdown
+[2024.12.16-20.24.46:176][582]RenderDocPlugin: plugin has been unloaded.
+[2024.12.16-20.24.46:219][582]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.12.16-20.24.46:219][582]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9C0CD113-41DA-FF09-821D-6B99FDACA953%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=86f14f264ead38541cc580a513b5af3f%7C2f95c94aaa044eb0b4e1ebee87f8a689%7C00631287-f794-4d3f-81a1-69a9690189c1&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.12.16-20.24.46:773][582]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2024.12.16-20.24.46:782][582]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.12.16-20.24.46:784][582]LogNFORDenoise: NFORDenoise function shutting down
+[2024.12.16-20.24.46:810][582]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2024.12.16-20.24.46:810][582]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2024.12.16-20.24.46:812][582]LogPakFile: Destroying PakPlatformFile
+[2024.12.16-20.24.47:210][582]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.12.16-20.24.47:253][582]LogExit: Exiting.
+[2024.12.16-20.24.47:305][582]Log file closed, 12/16/24 22:24:47
