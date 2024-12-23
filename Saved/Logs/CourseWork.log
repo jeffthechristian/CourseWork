@@ -3202,3 +3202,1199 @@ Script Stack (3 frames) :
 [2024.12.23-02.18.52:306][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
 [2024.12.23-02.18.52:339][289]LogPlayLevel: Display: Destroying online subsystem :Context_31
 [2024.12.23-02.18.54:558][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.12.23-02.20.54:533][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.12.23-02.20.54:864][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.20.54:951][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Zombie/BP_Zombie] ([2] browsable assets)...
+[2024.12.23-02.20.54:956][883]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie]
+[2024.12.23-02.20.54:956][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/BP_Zombie]
+[2024.12.23-02.20.54:956][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/BP_Zombie" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie.uasset" SILENT=true
+[2024.12.23-02.20.54:970][883]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/BP_Zombie
+[2024.12.23-02.20.54:971][883]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/BP_Zombie05FBA962430A389BDDBD3BB2B632915A.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie.uasset'
+[2024.12.23-02.20.54:980][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.375 ms (total: 2.89 sec)
+[2024.12.23-02.20.55:066][883]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.20.55:066][883]LogContentValidation: Enabled validators:
+[2024.12.23-02.20.55:066][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.20.55:066][883]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.20.55:066][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.20.55:066][883]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.20.55:066][883]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.20.55:066][883]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.20.55:066][883]AssetCheck: /Game/Characters/Zombie/BP_Zombie Validating asset
+[2024.12.23-02.21.09:717][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.12.23-02.21.09:782][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.12.23-02.21.09:864][760]LogChaosDD: Creating Chaos Debug Draw Scene for world World_15
+[2024.12.23-02.21.09:907][761]LogChaosDD: Creating Chaos Debug Draw Scene for world World_16
+[2024.12.23-02.21.11:461][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.12.23-02.21.11:514][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.12.23-02.21.11:587][854]LogChaosDD: Creating Chaos Debug Draw Scene for world World_17
+[2024.12.23-02.21.11:611][855]LogChaosDD: Creating Chaos Debug Draw Scene for world World_18
+[2024.12.23-02.21.16:510][147]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Zombie/AP_Zombie1.AP_Zombie1
+[2024.12.23-02.21.16:510][147]LogChaosDD: Creating Chaos Debug Draw Scene for world World_19
+[2024.12.23-02.21.16:517][147]LogChaosDD: Creating Chaos Debug Draw Scene for world World_20
+[2024.12.23-02.21.16:524][147]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.23-02.21.17:066][147]LogChaosDD: Creating Chaos Debug Draw Scene for world World_21
+[2024.12.23-02.21.30:015][741]LogSlate: Window 'AP_Zombie1' being destroyed
+[2024.12.23-02.21.30:047][741]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.21.30:048][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.21.30:082][741]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.21.30:082][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.21.30:169][741]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.21.30:169][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.21.30:247][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.12.23-02.21.32:406][867]LogChaosDD: Creating Chaos Debug Draw Scene for world World_22
+[2024.12.23-02.21.32:474][869]LogChaosDD: Creating Chaos Debug Draw Scene for world World_23
+[2024.12.23-02.21.37:746][182]LogContentBrowser: Deferred new asset file creation: WalkZombieBlendspace1
+[2024.12.23-02.21.37:755][182]LogContentBrowser: Creating deferred item: WalkZombieBlendspace1
+[2024.12.23-02.21.37:774][183]LogContentBrowser: Renaming the item being created (Deferred Item: WalkZombieBlendspace1).
+[2024.12.23-02.21.41:497][407]LogContentBrowser: Attempting asset rename: WalkZombieBlendspace1 -> WalkZombieBlendspace1
+[2024.12.23-02.21.41:505][407]LogContentBrowser: End creating deferred item WalkZombieBlendspace1
+[2024.12.23-02.21.42:786][482]LogContentBrowser: Deferred new asset file creation: WalkZombieBlendspace2
+[2024.12.23-02.21.42:794][482]LogContentBrowser: Creating deferred item: WalkZombieBlendspace2
+[2024.12.23-02.21.42:812][483]LogContentBrowser: Renaming the item being created (Deferred Item: WalkZombieBlendspace2).
+[2024.12.23-02.21.43:170][505]LogContentBrowser: Attempting asset rename: WalkZombieBlendspace2 -> WalkZombieBlendspace2
+[2024.12.23-02.21.43:176][505]LogContentBrowser: End creating deferred item WalkZombieBlendspace2
+[2024.12.23-02.21.43:911][548]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/Zombie/Animations/WalkZombieBlendspace1.WalkZombieBlendspace1
+[2024.12.23-02.21.43:912][548]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2024.12.23-02.21.43:921][548]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.23-02.21.44:295][548]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2024.12.23-02.21.44:918][549]LogChaosDD: Creating Chaos Debug Draw Scene for world World_26
+[2024.12.23-02.21.54:707][959]LogStreaming: Display: FlushAsyncLoading(573): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.23-02.21.54:715][959]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Zombie/Animations/Zombie_Running.Zombie_Running (Required Memory Estimate: 0.42 MB)
+[2024.12.23-02.21.54:725][959]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Zombie/Animations/Zombie_Running.Zombie_Running, at AnimationSequence/2d84d6f54ffd925fb335597158fbe194c1b5c196
+[2024.12.23-02.22.24:620][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.22.24:706][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Zombie/Animations/WalkZombieBlendspace1] ([1] browsable assets)...
+[2024.12.23-02.22.24:711][226]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/Characters/Zombie/Animations/WalkZombieBlendspace1.WalkZombieBlendspace1]
+[2024.12.23-02.22.24:711][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/Animations/WalkZombieBlendspace1]
+[2024.12.23-02.22.24:713][226]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/Animations/WalkZombieBlendspace1
+[2024.12.23-02.22.24:713][226]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/WalkZombieBlendspace1EDFD51BB4510C8D73B975AA25A0701EA.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/Animations/WalkZombieBlendspace1.uasset'
+[2024.12.23-02.22.24:736][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.428 ms (total: 3.00 sec)
+[2024.12.23-02.22.24:825][226]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.22.24:825][226]LogContentValidation: Enabled validators:
+[2024.12.23-02.22.24:825][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.22.24:825][226]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.22.24:825][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.22.24:825][226]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.22.24:825][226]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.22.24:825][226]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.22.24:826][226]AssetCheck: /Game/Characters/Zombie/Animations/WalkZombieBlendspace1 Validating asset
+[2024.12.23-02.22.26:268][276]LogSlate: Window 'WalkZombieBlendspace1' being destroyed
+[2024.12.23-02.23.13:196][314]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.23-02.23.13:288][314]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2024.12.23-02.23.15:057][314]LogSlate: Window 'Pick Skeleton' being destroyed
+[2024.12.23-02.23.15:067][314]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2024.12.23-02.23.15:078][314]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2024.12.23-02.23.15:140][315]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2024.12.23-02.23.21:988][726]LogContentBrowser: Attempting asset rename: NewAnimMontage -> ZombieWRAAGH
+[2024.12.23-02.23.21:998][726]LogContentBrowser: End creating deferred item NewAnimMontage
+[2024.12.23-02.23.23:665][823]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/Zombie/Animations/ZombieWRAAGH.ZombieWRAAGH
+[2024.12.23-02.23.28:503][ 95]LogStreaming: Display: FlushAsyncLoading(574): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.23-02.23.28:509][ 95]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Zombie/Animations/Zombie_Agonizing.Zombie_Agonizing (Required Memory Estimate: 4.45 MB)
+[2024.12.23-02.23.28:581][ 95]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Zombie/Animations/Zombie_Agonizing.Zombie_Agonizing, at AnimationSequence/4ec46cd09bf702a4b85e1ecf0aba1e2cd8ebebbd
+[2024.12.23-02.23.35:404][497]Cmd: TRANSACTION UNDO
+[2024.12.23-02.23.35:404][497]LogEditorTransaction: Undo Add Segments
+[2024.12.23-02.23.35:994][497]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.23-02.23.35:996][497]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.23-02.23.35:998][497]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.23-02.23.37:544][573]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5836.291016
+[2024.12.23-02.23.37:854][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.23-02.23.37:854][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5836.582031, Update Interval: 358.196350
+[2024.12.23-02.23.38:916][654]LogStreaming: Display: FlushAsyncLoading(575): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.23-02.23.38:920][654]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Zombie/Animations/Zombie_Scream.Zombie_Scream (Required Memory Estimate: 1.17 MB)
+[2024.12.23-02.23.38:977][654]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Zombie/Animations/Zombie_Scream.Zombie_Scream, at AnimationSequence/e39d3a3bb6d84d4b35c72f65700200b724aef0e1
+[2024.12.23-02.23.46:248][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.23.46:326][ 80]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Zombie/Animations/ZombieWRAAGH] ([1] browsable assets)...
+[2024.12.23-02.23.46:331][ 80]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Characters/Zombie/Animations/ZombieWRAAGH.ZombieWRAAGH]
+[2024.12.23-02.23.46:331][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/Animations/ZombieWRAAGH]
+[2024.12.23-02.23.46:331][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/Animations/ZombieWRAAGH" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/Animations/ZombieWRAAGH.uasset" SILENT=true
+[2024.12.23-02.23.46:332][ 80]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/Animations/ZombieWRAAGH
+[2024.12.23-02.23.46:332][ 80]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/ZombieWRAAGH6153A13547F30A2E353CE3B3D3BA58B0.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/Animations/ZombieWRAAGH.uasset'
+[2024.12.23-02.23.46:355][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.251 ms (total: 3.11 sec)
+[2024.12.23-02.23.46:441][ 80]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.23.46:441][ 80]LogContentValidation: Enabled validators:
+[2024.12.23-02.23.46:441][ 80]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.23.46:441][ 80]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.23.46:441][ 80]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.23.46:441][ 80]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.23.46:441][ 80]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.23.46:441][ 80]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.23.46:441][ 80]AssetCheck: /Game/Characters/Zombie/Animations/ZombieWRAAGH Validating asset
+[2024.12.23-02.23.52:544][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.12.23-02.23.54:746][430]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.23-02.23.54:795][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.12.23-02.23.54:825][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.12.23-02.23.54:854][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.23-02.24.01:053][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.12.23-02.24.03:066][785]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.23-02.24.03:364][785]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.24.03:364][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.24.03:433][785]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.23-02.24.03:433][785]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.24.03:433][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.24.03:518][785]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.23-02.24.03:518][785]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.24.03:518][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.24.03:625][785]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.24.03:625][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.24.03:637][785]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.24.03:637][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.24.03:654][785]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.24.03:654][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.24.03:747][785]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.24.03:747][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.24.03:759][785]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.24.03:759][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.24.03:776][785]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.24.03:776][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.24.03:807][785]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Characters/Zombie/AP_Zombie2.AP_Zombie2
+	Asset Type: AnimBlueprint
+	Asset Name: /Game/Characters/Zombie/BP_Zombie2.BP_Zombie2
+	Asset Type: Blueprint
+[2024.12.23-02.24.04:179][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.12.23-02.24.04:277][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.12.23-02.24.04:305][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.12.23-02.24.04:330][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.23-02.24.04:358][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.23-02.24.05:407][842]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Zombie/AP_Zombie1.AP_Zombie1
+[2024.12.23-02.24.05:408][842]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
+[2024.12.23-02.24.05:415][842]LogChaosDD: Creating Chaos Debug Draw Scene for world World_29
+[2024.12.23-02.24.05:421][842]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.23-02.24.05:718][842]LogChaosDD: Creating Chaos Debug Draw Scene for world World_30
+[2024.12.23-02.24.34:983][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.24.35:069][567]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Zombie/AP_Zombie1] ([2] browsable assets)...
+[2024.12.23-02.24.35:076][567]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Zombie/AP_Zombie1.AP_Zombie1]
+[2024.12.23-02.24.35:076][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/AP_Zombie1]
+[2024.12.23-02.24.35:076][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/AP_Zombie1" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/AP_Zombie1.uasset" SILENT=true
+[2024.12.23-02.24.35:082][567]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/AP_Zombie1
+[2024.12.23-02.24.35:082][567]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/AP_Zombie1964942644F305E677ECC7BB397027652.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/AP_Zombie1.uasset'
+[2024.12.23-02.24.35:104][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.500 ms (total: 3.23 sec)
+[2024.12.23-02.24.35:193][567]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.24.35:193][567]LogContentValidation: Enabled validators:
+[2024.12.23-02.24.35:193][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.24.35:193][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.24.35:193][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.24.35:193][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.24.35:193][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.24.35:193][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.24.35:193][567]AssetCheck: /Game/Characters/Zombie/AP_Zombie1 Validating asset
+[2024.12.23-02.24.37:320][693]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1
+[2024.12.23-02.24.37:320][693]LogChaosDD: Creating Chaos Debug Draw Scene for world World_31
+[2024.12.23-02.24.43:509][ 26]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.12.23-02.24.49:955][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.12.23-02.24.50:557][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.24.50:638][397]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Zombie/BP_Zombie1] ([2] browsable assets)...
+[2024.12.23-02.24.50:641][397]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1]
+[2024.12.23-02.24.50:642][397]LogChaosDD: Creating Chaos Debug Draw Scene for world World_32
+[2024.12.23-02.24.50:657][397]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1_C]
+[2024.12.23-02.24.50:657][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/BP_Zombie1]
+[2024.12.23-02.24.50:657][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/BP_Zombie1" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset" SILENT=true
+[2024.12.23-02.24.50:676][397]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/BP_Zombie1
+[2024.12.23-02.24.50:676][397]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/BP_Zombie1A085E34A481F73DBBC52BBA54170824E.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset'
+[2024.12.23-02.24.50:691][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.183 ms (total: 3.37 sec)
+[2024.12.23-02.24.50:776][397]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.24.50:776][397]LogContentValidation: Enabled validators:
+[2024.12.23-02.24.50:776][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.24.50:776][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.24.50:776][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.24.50:776][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.24.50:776][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.24.50:776][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.24.50:777][397]AssetCheck: /Game/Characters/Zombie/BP_Zombie1 Validating asset
+[2024.12.23-02.25.20:417][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.12.23-02.25.20:850][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.25.20:930][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Zombie/BP_Zombie1] ([2] browsable assets)...
+[2024.12.23-02.25.20:934][108]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1]
+[2024.12.23-02.25.20:934][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/BP_Zombie1]
+[2024.12.23-02.25.20:934][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/BP_Zombie1" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset" SILENT=true
+[2024.12.23-02.25.20:950][108]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/BP_Zombie1
+[2024.12.23-02.25.20:950][108]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/BP_Zombie14812111848DAF3CFF11FC4846D7707E0.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset'
+[2024.12.23-02.25.20:960][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.326 ms (total: 3.48 sec)
+[2024.12.23-02.25.21:053][108]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.25.21:053][108]LogContentValidation: Enabled validators:
+[2024.12.23-02.25.21:053][108]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.25.21:053][108]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.25.21:053][108]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.25.21:053][108]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.25.21:053][108]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.25.21:053][108]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.25.21:053][108]AssetCheck: /Game/Characters/Zombie/BP_Zombie1 Validating asset
+[2024.12.23-02.25.32:953][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.25.33:035][816]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Zombie/BP_Zombie1] ([2] browsable assets)...
+[2024.12.23-02.25.33:035][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/BP_Zombie1]
+[2024.12.23-02.25.33:035][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/BP_Zombie1" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset" SILENT=true
+[2024.12.23-02.25.33:048][816]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/BP_Zombie1
+[2024.12.23-02.25.33:049][816]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/BP_Zombie1E2FDCFA24988BF5E324B83AAF022DE35.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset'
+[2024.12.23-02.25.33:058][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.786 ms (total: 3.58 sec)
+[2024.12.23-02.25.33:152][816]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.25.33:152][816]LogContentValidation: Enabled validators:
+[2024.12.23-02.25.33:152][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.25.33:152][816]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.25.33:152][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.25.33:152][816]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.25.33:152][816]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.25.33:152][816]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.25.33:153][816]AssetCheck: /Game/Characters/Zombie/BP_Zombie1 Validating asset
+[2024.12.23-02.25.35:421][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie
+[2024.12.23-02.25.35:422][951]LogChaosDD: Creating Chaos Debug Draw Scene for world World_33
+[2024.12.23-02.25.53:175][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.12.23-02.25.54:328][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.25.54:410][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Zombie/BP_Zombie] ([2] browsable assets)...
+[2024.12.23-02.25.54:415][  0]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie]
+[2024.12.23-02.25.54:415][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/BP_Zombie]
+[2024.12.23-02.25.54:415][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/BP_Zombie" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie.uasset" SILENT=true
+[2024.12.23-02.25.54:429][  0]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/BP_Zombie
+[2024.12.23-02.25.54:430][  0]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/BP_Zombie2661B8BB49F498440AEC56A5AEEFDFEA.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie.uasset'
+[2024.12.23-02.25.54:440][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.388 ms (total: 3.69 sec)
+[2024.12.23-02.25.54:532][  0]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.25.54:532][  0]LogContentValidation: Enabled validators:
+[2024.12.23-02.25.54:532][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.25.54:532][  0]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.25.54:532][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.25.54:532][  0]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.25.54:532][  0]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.25.54:532][  0]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.25.54:533][  0]AssetCheck: /Game/Characters/Zombie/BP_Zombie Validating asset
+[2024.12.23-02.25.57:827][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.12.23-02.25.58:420][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.25.58:498][215]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Zombie/BP_Zombie1] ([2] browsable assets)...
+[2024.12.23-02.25.58:503][215]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1]
+[2024.12.23-02.25.58:503][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/BP_Zombie1]
+[2024.12.23-02.25.58:504][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/BP_Zombie1" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset" SILENT=true
+[2024.12.23-02.25.58:517][215]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/BP_Zombie1
+[2024.12.23-02.25.58:517][215]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/BP_Zombie16FA15B414E7F114FC881179584FB75B0.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset'
+[2024.12.23-02.25.58:526][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.408 ms (total: 3.80 sec)
+[2024.12.23-02.25.58:617][215]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.25.58:617][215]LogContentValidation: Enabled validators:
+[2024.12.23-02.25.58:617][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.25.58:617][215]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.25.58:617][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.25.58:617][215]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.25.58:617][215]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.25.58:617][215]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.25.58:617][215]AssetCheck: /Game/Characters/Zombie/BP_Zombie1 Validating asset
+[2024.12.23-02.26.20:901][544]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Zombie/AP_Zombie.AP_Zombie
+[2024.12.23-02.26.20:902][544]LogChaosDD: Creating Chaos Debug Draw Scene for world World_34
+[2024.12.23-02.26.20:909][544]LogChaosDD: Creating Chaos Debug Draw Scene for world World_35
+[2024.12.23-02.26.20:917][544]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.23-02.26.21:227][544]LogChaosDD: Creating Chaos Debug Draw Scene for world World_36
+[2024.12.23-02.26.56:693][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.12.23-02.26.57:740][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.26.57:818][650]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Zombie/AP_Zombie1] ([2] browsable assets)...
+[2024.12.23-02.26.57:824][650]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Zombie/AP_Zombie1.AP_Zombie1]
+[2024.12.23-02.26.57:825][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/AP_Zombie1]
+[2024.12.23-02.26.57:825][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/AP_Zombie1" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/AP_Zombie1.uasset" SILENT=true
+[2024.12.23-02.26.57:831][650]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/AP_Zombie1
+[2024.12.23-02.26.57:832][650]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/AP_Zombie17549EF5B468F0155F7F33EB7EC1AC126.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/AP_Zombie1.uasset'
+[2024.12.23-02.26.57:841][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.720 ms (total: 3.90 sec)
+[2024.12.23-02.26.57:935][650]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.26.57:935][650]LogContentValidation: Enabled validators:
+[2024.12.23-02.26.57:935][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.26.57:935][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.26.57:935][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.26.57:935][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.26.57:935][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.26.57:935][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.26.57:935][650]AssetCheck: /Game/Characters/Zombie/AP_Zombie1 Validating asset
+[2024.12.23-02.27.15:839][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.12.23-02.27.16:364][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.27.16:451][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Zombie/BP_Zombie] ([2] browsable assets)...
+[2024.12.23-02.27.16:455][709]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie]
+[2024.12.23-02.27.16:455][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/BP_Zombie]
+[2024.12.23-02.27.16:455][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/BP_Zombie" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie.uasset" SILENT=true
+[2024.12.23-02.27.16:470][709]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/BP_Zombie
+[2024.12.23-02.27.16:470][709]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/BP_ZombieA4BB31FA46E92B3F9871528CA06598AA.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie.uasset'
+[2024.12.23-02.27.16:481][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.613 ms (total: 4.02 sec)
+[2024.12.23-02.27.16:568][709]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.27.16:568][709]LogContentValidation: Enabled validators:
+[2024.12.23-02.27.16:568][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.27.16:568][709]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.27.16:568][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.27.16:568][709]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.27.16:568][709]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.27.16:568][709]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.27.16:568][709]AssetCheck: /Game/Characters/Zombie/BP_Zombie Validating asset
+[2024.12.23-02.27.23:069][ 79]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Zombie/AP_Zombie1.AP_Zombie1
+[2024.12.23-02.27.23:069][ 79]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Zombie/AP_Zombie1.AP_Zombie1
+[2024.12.23-02.27.23:070][ 79]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Zombie/Model/Ch10_nonPBR.Ch10_nonPBR as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2024.12.23-02.27.23:071][ 79]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Zombie/Model/Ch10_nonPBR.Ch10_nonPBR as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2024.12.23-02.27.23:766][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.12.23-02.27.23:777][115]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2024.12.23-02.27.23:784][115]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Zombie/AP_Zombie1.AP_Zombie1
+[2024.12.23-02.27.23:784][115]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Zombie/AP_Zombie1.AP_Zombie1
+[2024.12.23-02.27.23:790][115]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Zombie/Model/Ch10_nonPBR.Ch10_nonPBR as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_7C8AE1A595B67E3B02_1741191975
+[2024.12.23-02.27.23:792][115]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Zombie/Model/Ch10_nonPBR.Ch10_nonPBR as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_7C8AE1A595B67E3B02_1741191975
+[2024.12.23-02.27.25:929][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.27.26:016][234]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/S1/4BPNWAQ74IOD0MKN8EEHDH
+[2024.12.23-02.27.26:017][234]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/4BPNWAQ74IOD0MKN8EEHDHD97C22FC4C12BBD4F5158095389E5A1C.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/S1/4BPNWAQ74IOD0MKN8EEHDH.uasset'
+[2024.12.23-02.27.26:020][234]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MW/Y5ZSTQISSB4TH1THR3KX67
+[2024.12.23-02.27.26:021][234]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/Y5ZSTQISSB4TH1THR3KX673D5D8C104EC236B5F9F201A2146A6D84.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MW/Y5ZSTQISSB4TH1THR3KX67.uasset'
+[2024.12.23-02.27.26:025][234]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/MV/0JFNDLRY39P24QPX5XMDVK
+[2024.12.23-02.27.26:025][234]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/0JFNDLRY39P24QPX5XMDVKD5DE5A85454E9B9DC4774C98E0F3EA57.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/MV/0JFNDLRY39P24QPX5XMDVK.uasset'
+[2024.12.23-02.27.26:028][234]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/36/731N9GMOOA5Z90TXE5VWHF
+[2024.12.23-02.27.26:028][234]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/731N9GMOOA5Z90TXE5VWHF1E22896C4C8E21972B39348A2B2CD1AF.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/36/731N9GMOOA5Z90TXE5VWHF.uasset'
+[2024.12.23-02.27.26:040][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.636 ms (total: 4.13 sec)
+[2024.12.23-02.27.26:129][234]LogContentValidation: Display: Starting to validate 4 assets
+[2024.12.23-02.27.26:129][234]LogContentValidation: Enabled validators:
+[2024.12.23-02.27.26:129][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.27.26:129][234]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.27.26:129][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.27.26:129][234]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.27.26:130][234]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.27.26:130][234]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.27.26:130][234]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2024.12.23-02.27.26:833][273]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.23-02.27.26:842][273]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.23-02.27.26:842][273]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.23-02.27.26:845][273]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.206 ms (total: 45.789 ms)
+[2024.12.23-02.27.26:845][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-02.27.26:845][273]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.27.26:850][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004937s)
+[2024.12.23-02.27.26:850][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004972s)
+[2024.12.23-02.27.26:874][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.12.23-02.27.26:877][273]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.23-02.27.26:879][273]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.23-02.27.26:879][273]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.23-02.27.26:879][273]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.23-02.27.26:879][273]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.23-02.27.26:881][273]LogWorldPartition: Display: WorldPartition initialize took 1.675 ms (total: 162.241 ms)
+[2024.12.23-02.27.26:881][273]LogPlayLevel: PIE: World Init took: (0.003586s)
+[2024.12.23-02.27.26:882][273]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.12.23-02.27.26:882][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-02.27.26:882][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-02.27.26:882][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-02.27.26:882][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-02.27.26:882][273]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-02.27.26:882][273]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-02.27.26:882][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-02.27.26:882][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-02.27.26:882][273]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-02.27.26:882][273]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-02.27.26:882][273]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-02.27.26:884][273]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-02.27.26:932][273]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.23-02.27.26:933][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-02.27.26:933][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-02.27.26:933][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-02.27.26:933][273]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.12.23-02.27.26:933][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.12.23-02.27.26:936][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.12.23-02.27.26:936][273]LogInit: FAudioDevice initialized with ID 18.
+[2024.12.23-02.27.26:936][273]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.12.23-02.27.26:936][273]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonMap'.
+[2024.12.23-02.27.26:936][273]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.12.23-02.27.26:939][273]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-02.27.26:943][273]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.23-04.27.26
+[2024.12.23-02.27.26:944][273]LogWorld: Bringing up level for play took: 0.004373
+[2024.12.23-02.27.26:947][273]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2024.12.23-02.27.26:950][273]PIE: Server logged in
+[2024.12.23-02.27.26:951][273]PIE: Play in editor total start time 0.109 seconds.
+[2024.12.23-02.27.59:113][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.27.59:113][198]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.27.59:113][198]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.27.59:114][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.27.59:114][198]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.23-02.27.59:117][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-02.27.59:123][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.27.59:143][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.27.59:144][198]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.12.23-02.27.59:144][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.12.23-02.27.59:146][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.12.23-02.27.59:156][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.12.23-02.27.59:216][199]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2024.12.23-02.29.55:205][612]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.23-02.29.55:213][612]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.23-02.29.55:213][612]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.23-02.29.55:216][612]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.332 ms (total: 48.122 ms)
+[2024.12.23-02.29.55:216][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-02.29.55:216][612]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.29.55:221][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004745s)
+[2024.12.23-02.29.55:221][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004779s)
+[2024.12.23-02.29.55:242][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.12.23-02.29.55:245][612]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.23-02.29.55:247][612]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.23-02.29.55:247][612]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.23-02.29.55:247][612]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.23-02.29.55:247][612]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.23-02.29.55:250][612]LogWorldPartition: Display: WorldPartition initialize took 1.883 ms (total: 164.125 ms)
+[2024.12.23-02.29.55:250][612]LogPlayLevel: PIE: World Init took: (0.003705s)
+[2024.12.23-02.29.55:251][612]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.12.23-02.29.55:251][612]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-02.29.55:251][612]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-02.29.55:251][612]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-02.29.55:251][612]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-02.29.55:251][612]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-02.29.55:251][612]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-02.29.55:251][612]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-02.29.55:251][612]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-02.29.55:251][612]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-02.29.55:251][612]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-02.29.55:251][612]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-02.29.55:253][612]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-02.29.55:300][612]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.23-02.29.55:301][612]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-02.29.55:301][612]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-02.29.55:301][612]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-02.29.55:301][612]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.12.23-02.29.55:301][612]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.12.23-02.29.55:304][612]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.12.23-02.29.55:304][612]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.12.23-02.29.55:304][612]LogInit: FAudioDevice initialized with ID 19.
+[2024.12.23-02.29.55:304][612]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonMap'.
+[2024.12.23-02.29.55:304][612]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.12.23-02.29.55:307][612]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-02.29.55:311][612]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.23-04.29.55
+[2024.12.23-02.29.55:311][612]LogWorld: Bringing up level for play took: 0.004134
+[2024.12.23-02.29.55:315][612]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2024.12.23-02.29.55:318][612]PIE: Server logged in
+[2024.12.23-02.29.55:319][612]PIE: Play in editor total start time 0.105 seconds.
+[2024.12.23-02.30.08:168][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.30.08:168][379]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.30.08:169][379]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.30.08:170][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.30.08:170][379]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.23-02.30.08:173][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-02.30.08:178][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.30.08:203][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.30.08:203][379]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.12.23-02.30.08:203][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.12.23-02.30.08:205][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.12.23-02.30.08:215][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.12.23-02.30.08:274][380]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2024.12.23-02.30.18:252][933]Cmd: DELETE
+[2024.12.23-02.30.18:252][933]Cmd: ACTOR DELETE
+[2024.12.23-02.30.18:265][933]LogEditorActor: Deleted Actor: BP_Zombie_C
+[2024.12.23-02.30.18:290][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.12.23-02.30.18:295][933]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2024.12.23-02.30.18:877][958]Cmd: DELETE
+[2024.12.23-02.30.18:877][958]Cmd: ACTOR DELETE
+[2024.12.23-02.30.18:880][958]LogEditorActor: Deleted Actor: BP_Zombie_C
+[2024.12.23-02.30.18:909][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.12.23-02.30.18:915][958]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2024.12.23-02.30.19:698][998]Cmd: DELETE
+[2024.12.23-02.30.19:698][998]Cmd: ACTOR DELETE
+[2024.12.23-02.30.19:700][998]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.23-02.30.19:723][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.12.23-02.30.19:728][998]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2024.12.23-02.30.20:616][ 42]Cmd: DELETE
+[2024.12.23-02.30.20:616][ 42]Cmd: ACTOR DELETE
+[2024.12.23-02.30.20:618][ 42]LogEditorActor: Deleted Actor: BP_Zombie_C
+[2024.12.23-02.30.20:647][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.12.23-02.30.20:653][ 42]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2024.12.23-02.30.21:078][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6239.792480
+[2024.12.23-02.30.21:364][ 81]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.23-02.30.21:364][ 81]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6240.059570, Update Interval: 325.249176
+[2024.12.23-02.30.22:373][133]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2024.12.23-02.30.22:373][133]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2024.12.23-02.30.22:375][133]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie_C_0
+[2024.12.23-02.30.22:376][133]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie_C_0
+[2024.12.23-02.30.22:654][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.23-02.30.22:660][145]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2024.12.23-02.30.22:668][145]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2024.12.23-02.30.22:668][145]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2024.12.23-02.30.22:672][145]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie_C_UAID_7C8AE1A595B67E3B02_1920074976
+[2024.12.23-02.30.22:673][145]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie_C_UAID_7C8AE1A595B67E3B02_1920074976
+[2024.12.23-02.30.24:024][217]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.23-02.30.24:033][217]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.23-02.30.24:033][217]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.23-02.30.24:035][217]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.114 ms (total: 50.237 ms)
+[2024.12.23-02.30.24:058][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-02.30.24:059][217]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.30.24:062][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004252s)
+[2024.12.23-02.30.24:062][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004282s)
+[2024.12.23-02.30.24:082][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.12.23-02.30.24:088][217]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.23-02.30.24:090][217]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.23-02.30.24:090][217]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.23-02.30.24:090][217]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.23-02.30.24:090][217]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.23-02.30.24:091][217]LogWorldPartition: Display: WorldPartition initialize took 1.561 ms (total: 165.686 ms)
+[2024.12.23-02.30.24:091][217]LogPlayLevel: PIE: World Init took: (0.003347s)
+[2024.12.23-02.30.24:093][217]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.12.23-02.30.24:093][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-02.30.24:093][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-02.30.24:093][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-02.30.24:093][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-02.30.24:093][217]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-02.30.24:093][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-02.30.24:093][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-02.30.24:093][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-02.30.24:093][217]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-02.30.24:093][217]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-02.30.24:093][217]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-02.30.24:095][217]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-02.30.24:140][217]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.23-02.30.24:140][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-02.30.24:140][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-02.30.24:140][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-02.30.24:142][217]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.12.23-02.30.24:142][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.12.23-02.30.24:145][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.12.23-02.30.24:145][217]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.12.23-02.30.24:145][217]LogInit: FAudioDevice initialized with ID 20.
+[2024.12.23-02.30.24:145][217]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonMap'.
+[2024.12.23-02.30.24:145][217]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.12.23-02.30.24:147][217]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-02.30.24:150][217]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.23-04.30.24
+[2024.12.23-02.30.24:150][217]LogWorld: Bringing up level for play took: 0.002672
+[2024.12.23-02.30.24:153][217]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2024.12.23-02.30.24:156][217]PIE: Server logged in
+[2024.12.23-02.30.24:157][217]PIE: Play in editor total start time 0.125 seconds.
+[2024.12.23-02.30.40:019][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.30.40:019][163]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.30.40:019][163]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.30.40:020][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.30.40:020][163]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.23-02.30.40:025][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-02.30.40:031][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.30.40:053][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.30.40:053][163]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.12.23-02.30.40:053][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.12.23-02.30.40:056][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.12.23-02.30.40:064][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.12.23-02.30.40:215][164]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2024.12.23-02.30.46:965][551]Cmd: DELETE
+[2024.12.23-02.30.46:965][551]Cmd: ACTOR DELETE
+[2024.12.23-02.30.46:967][551]LogEditorActor: Deleted Actor: BP_Zombie_C
+[2024.12.23-02.30.46:998][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.12.23-02.30.47:002][551]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2024.12.23-02.30.47:568][577]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1_C
+[2024.12.23-02.30.47:568][577]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1_C
+[2024.12.23-02.30.47:571][577]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1 as actor: BP_Zombie1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie1_C_0
+[2024.12.23-02.30.47:572][577]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1 as actor: BP_Zombie1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie1_C_0
+[2024.12.23-02.30.47:724][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.23-02.30.47:730][583]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2024.12.23-02.30.47:737][583]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1_C
+[2024.12.23-02.30.47:737][583]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1_C
+[2024.12.23-02.30.47:741][583]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1 as actor: BP_Zombie1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie1_C_UAID_7C8AE1A595B67E3B02_1945143977
+[2024.12.23-02.30.47:742][583]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1 as actor: BP_Zombie1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie1_C_UAID_7C8AE1A595B67E3B02_1945143977
+[2024.12.23-02.30.51:948][811]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.23-02.30.51:957][811]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.23-02.30.51:957][811]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.23-02.30.51:960][811]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.322 ms (total: 52.559 ms)
+[2024.12.23-02.30.51:982][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-02.30.52:018][811]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.30.52:023][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004518s)
+[2024.12.23-02.30.52:023][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004559s)
+[2024.12.23-02.30.52:046][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.23-02.30.52:051][811]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.23-02.30.52:053][811]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.23-02.30.52:053][811]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.23-02.30.52:053][811]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.23-02.30.52:053][811]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.23-02.30.52:054][811]LogWorldPartition: Display: WorldPartition initialize took 1.612 ms (total: 167.298 ms)
+[2024.12.23-02.30.52:054][811]LogPlayLevel: PIE: World Init took: (0.003335s)
+[2024.12.23-02.30.52:055][811]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.12.23-02.30.52:055][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-02.30.52:055][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-02.30.52:055][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-02.30.52:055][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-02.30.52:055][811]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-02.30.52:055][811]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-02.30.52:055][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-02.30.52:055][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-02.30.52:055][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-02.30.52:055][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-02.30.52:055][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-02.30.52:057][811]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-02.30.52:104][811]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.23-02.30.52:104][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-02.30.52:104][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-02.30.52:104][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-02.30.52:104][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.12.23-02.30.52:104][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.12.23-02.30.52:108][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.12.23-02.30.52:108][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.12.23-02.30.52:108][811]LogInit: FAudioDevice initialized with ID 21.
+[2024.12.23-02.30.52:108][811]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonMap'.
+[2024.12.23-02.30.52:108][811]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.12.23-02.30.52:111][811]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-02.30.52:114][811]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.23-04.30.52
+[2024.12.23-02.30.52:114][811]LogWorld: Bringing up level for play took: 0.002679
+[2024.12.23-02.30.52:117][811]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2024.12.23-02.30.52:121][811]PIE: Server logged in
+[2024.12.23-02.30.52:122][811]PIE: Play in editor total start time 0.165 seconds.
+[2024.12.23-02.30.59:368][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.30.59:368][241]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.30.59:368][241]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.30.59:369][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.30.59:369][241]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.23-02.30.59:374][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-02.30.59:381][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.30.59:401][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.30.59:401][241]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.12.23-02.30.59:401][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.12.23-02.30.59:403][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.12.23-02.30.59:412][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.12.23-02.30.59:562][242]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2024.12.23-02.32.03:058][917]LogEditorTransaction: Undo Delete current selection
+[2024.12.23-02.32.03:499][917]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.23-02.32.03:501][917]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.23-02.32.03:512][917]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.23-02.32.21:825][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.12.23-02.32.22:244][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.32.22:325][995]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Zombie/AP_Zombie1] ([2] browsable assets)...
+[2024.12.23-02.32.22:330][995]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Zombie/AP_Zombie1.AP_Zombie1]
+[2024.12.23-02.32.22:330][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/AP_Zombie1]
+[2024.12.23-02.32.22:330][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/AP_Zombie1" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/AP_Zombie1.uasset" SILENT=true
+[2024.12.23-02.32.22:337][995]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/AP_Zombie1
+[2024.12.23-02.32.22:337][995]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/AP_Zombie13F7B91AB47E6E191E0EF3FA3D384E8FF.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/AP_Zombie1.uasset'
+[2024.12.23-02.32.22:348][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.883 ms (total: 4.23 sec)
+[2024.12.23-02.32.22:440][995]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.32.22:440][995]LogContentValidation: Enabled validators:
+[2024.12.23-02.32.22:440][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.32.22:440][995]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.32.22:440][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.32.22:440][995]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.32.22:440][995]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.32.22:440][995]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.32.22:440][995]AssetCheck: /Game/Characters/Zombie/AP_Zombie1 Validating asset
+[2024.12.23-02.32.24:160][ 94]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.23-02.32.24:170][ 94]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.23-02.32.24:170][ 94]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.23-02.32.24:173][ 94]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.263 ms (total: 54.823 ms)
+[2024.12.23-02.32.24:173][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-02.32.24:173][ 94]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.32.24:177][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004511s)
+[2024.12.23-02.32.24:177][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004547s)
+[2024.12.23-02.32.24:201][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.12.23-02.32.24:204][ 94]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.23-02.32.24:206][ 94]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.23-02.32.24:206][ 94]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.23-02.32.24:206][ 94]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.23-02.32.24:206][ 94]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.23-02.32.24:207][ 94]LogWorldPartition: Display: WorldPartition initialize took 1.525 ms (total: 168.824 ms)
+[2024.12.23-02.32.24:207][ 94]LogPlayLevel: PIE: World Init took: (0.003263s)
+[2024.12.23-02.32.24:208][ 94]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.12.23-02.32.24:208][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-02.32.24:208][ 94]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-02.32.24:208][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-02.32.24:208][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-02.32.24:208][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-02.32.24:208][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-02.32.24:208][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-02.32.24:208][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-02.32.24:208][ 94]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-02.32.24:208][ 94]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-02.32.24:208][ 94]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-02.32.24:210][ 94]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-02.32.24:258][ 94]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.23-02.32.24:258][ 94]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-02.32.24:258][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-02.32.24:258][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-02.32.24:260][ 94]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.12.23-02.32.24:260][ 94]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.12.23-02.32.24:263][ 94]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.12.23-02.32.24:263][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.12.23-02.32.24:263][ 94]LogInit: FAudioDevice initialized with ID 22.
+[2024.12.23-02.32.24:263][ 94]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonMap'.
+[2024.12.23-02.32.24:263][ 94]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.12.23-02.32.24:333][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.32.24:333][ 94]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-02.32.24:339][ 94]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.23-04.32.24
+[2024.12.23-02.32.24:339][ 94]LogWorld: Bringing up level for play took: 0.005023
+[2024.12.23-02.32.24:342][ 94]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2024.12.23-02.32.24:347][ 94]PIE: Server logged in
+[2024.12.23-02.32.24:348][ 94]PIE: Play in editor total start time 0.178 seconds.
+[2024.12.23-02.32.29:021][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.32.29:021][336]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.32.29:022][336]LogSlate: Window 'CourseWork Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-02.32.29:027][336]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.32.29:028][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.32.29:028][336]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.23-02.32.29:064][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-02.32.29:072][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.32.29:106][336]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.12.23-02.32.29:106][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.12.23-02.32.29:109][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.12.23-02.32.29:124][336]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2024.12.23-02.32.29:290][337]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2024.12.23-02.32.58:957][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.32.59:041][ 99]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Zombie/AP_Zombie1] ([2] browsable assets)...
+[2024.12.23-02.32.59:041][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/AP_Zombie1]
+[2024.12.23-02.32.59:041][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/AP_Zombie1" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/AP_Zombie1.uasset" SILENT=true
+[2024.12.23-02.32.59:048][ 99]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/AP_Zombie1
+[2024.12.23-02.32.59:049][ 99]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/AP_Zombie1EB4221614F5DB1204C74218D6A615BA2.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/AP_Zombie1.uasset'
+[2024.12.23-02.32.59:059][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.315 ms (total: 4.33 sec)
+[2024.12.23-02.32.59:148][ 99]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.32.59:148][ 99]LogContentValidation: Enabled validators:
+[2024.12.23-02.32.59:148][ 99]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.32.59:148][ 99]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.32.59:148][ 99]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.32.59:148][ 99]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.32.59:148][ 99]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.32.59:149][ 99]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.32.59:149][ 99]AssetCheck: /Game/Characters/Zombie/AP_Zombie1 Validating asset
+[2024.12.23-02.33.04:462][410]Cmd: DELETE
+[2024.12.23-02.33.04:462][410]Cmd: ACTOR DELETE
+[2024.12.23-02.33.04:464][410]LogEditorActor: Deleted Actor: BP_Zombie1_C
+[2024.12.23-02.33.04:492][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.12.23-02.33.04:502][410]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2024.12.23-02.33.06:040][492]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2024.12.23-02.33.06:040][492]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2024.12.23-02.33.06:042][492]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie_C_1
+[2024.12.23-02.33.06:042][492]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie_C_1
+[2024.12.23-02.33.06:229][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.23-02.33.06:235][500]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2024.12.23-02.33.06:242][500]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2024.12.23-02.33.06:242][500]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2024.12.23-02.33.06:245][500]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie_C_UAID_7C8AE1A595B67E3B02_2083648978
+[2024.12.23-02.33.06:248][500]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie_C_UAID_7C8AE1A595B67E3B02_2083648978
+[2024.12.23-02.33.08:140][602]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.23-02.33.08:150][602]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.23-02.33.08:150][602]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.23-02.33.08:152][602]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.286 ms (total: 57.109 ms)
+[2024.12.23-02.33.08:152][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-02.33.08:152][602]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.33.08:156][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004398s)
+[2024.12.23-02.33.08:156][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004430s)
+[2024.12.23-02.33.08:176][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.12.23-02.33.08:179][602]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.23-02.33.08:181][602]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.23-02.33.08:181][602]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.23-02.33.08:181][602]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.23-02.33.08:181][602]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.23-02.33.08:183][602]LogWorldPartition: Display: WorldPartition initialize took 1.549 ms (total: 170.373 ms)
+[2024.12.23-02.33.08:183][602]LogPlayLevel: PIE: World Init took: (0.003420s)
+[2024.12.23-02.33.08:184][602]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.12.23-02.33.08:184][602]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-02.33.08:184][602]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-02.33.08:184][602]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-02.33.08:184][602]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-02.33.08:184][602]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-02.33.08:184][602]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-02.33.08:184][602]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-02.33.08:184][602]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-02.33.08:184][602]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-02.33.08:184][602]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-02.33.08:184][602]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-02.33.08:186][602]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-02.33.08:233][602]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.23-02.33.08:233][602]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-02.33.08:233][602]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-02.33.08:233][602]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-02.33.08:234][602]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.12.23-02.33.08:234][602]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.12.23-02.33.08:237][602]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.12.23-02.33.08:237][602]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.12.23-02.33.08:237][602]LogInit: FAudioDevice initialized with ID 23.
+[2024.12.23-02.33.08:237][602]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonMap'.
+[2024.12.23-02.33.08:237][602]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.12.23-02.33.08:239][602]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-02.33.08:242][602]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.23-04.33.08
+[2024.12.23-02.33.08:242][602]LogWorld: Bringing up level for play took: 0.002793
+[2024.12.23-02.33.08:246][602]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.12.23-02.33.08:250][602]PIE: Server logged in
+[2024.12.23-02.33.08:251][602]PIE: Play in editor total start time 0.101 seconds.
+[2024.12.23-02.33.20:339][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.33.20:339][323]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.33.20:339][323]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.33.20:340][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.33.20:340][323]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.23-02.33.20:343][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-02.33.20:349][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.33.20:370][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.33.20:371][323]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.12.23-02.33.20:371][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.12.23-02.33.20:373][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.12.23-02.33.20:383][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.12.23-02.33.20:532][324]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.12.23-02.34.12:205][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.12.23-02.34.12:603][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.34.12:685][385]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Zombie/BP_Zombie1] ([2] browsable assets)...
+[2024.12.23-02.34.12:690][385]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1]
+[2024.12.23-02.34.12:690][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/BP_Zombie1]
+[2024.12.23-02.34.12:690][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/BP_Zombie1" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset" SILENT=true
+[2024.12.23-02.34.12:705][385]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/BP_Zombie1
+[2024.12.23-02.34.12:705][385]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/BP_Zombie1E41DA20E4DE576554AFD578C3A288B73.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset'
+[2024.12.23-02.34.12:716][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.523 ms (total: 4.45 sec)
+[2024.12.23-02.34.12:807][385]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.34.12:807][385]LogContentValidation: Enabled validators:
+[2024.12.23-02.34.12:807][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.34.12:807][385]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.34.12:807][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.34.12:807][385]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.34.12:807][385]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.34.12:807][385]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.34.12:807][385]AssetCheck: /Game/Characters/Zombie/BP_Zombie1 Validating asset
+[2024.12.23-02.34.13:383][419]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.23-02.34.13:393][419]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.23-02.34.13:393][419]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.23-02.34.13:395][419]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.315 ms (total: 59.424 ms)
+[2024.12.23-02.34.13:396][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-02.34.13:396][419]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.34.13:400][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004628s)
+[2024.12.23-02.34.13:400][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004669s)
+[2024.12.23-02.34.13:425][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.12.23-02.34.13:432][419]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.23-02.34.13:434][419]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.23-02.34.13:434][419]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.23-02.34.13:434][419]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.23-02.34.13:434][419]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.23-02.34.13:436][419]LogWorldPartition: Display: WorldPartition initialize took 1.532 ms (total: 171.905 ms)
+[2024.12.23-02.34.13:436][419]LogPlayLevel: PIE: World Init took: (0.003268s)
+[2024.12.23-02.34.13:437][419]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.12.23-02.34.13:437][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-02.34.13:437][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-02.34.13:437][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-02.34.13:437][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-02.34.13:437][419]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-02.34.13:437][419]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-02.34.13:437][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-02.34.13:437][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-02.34.13:437][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-02.34.13:437][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-02.34.13:437][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-02.34.13:439][419]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-02.34.13:485][419]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.23-02.34.13:486][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-02.34.13:486][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-02.34.13:486][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-02.34.13:486][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.12.23-02.34.13:486][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.12.23-02.34.13:489][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.12.23-02.34.13:489][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.12.23-02.34.13:489][419]LogInit: FAudioDevice initialized with ID 24.
+[2024.12.23-02.34.13:489][419]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonMap'.
+[2024.12.23-02.34.13:489][419]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.12.23-02.34.13:557][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.34.13:557][419]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-02.34.13:560][419]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.23-04.34.13
+[2024.12.23-02.34.13:560][419]LogWorld: Bringing up level for play took: 0.002963
+[2024.12.23-02.34.13:564][419]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2024.12.23-02.34.13:572][419]PIE: Server logged in
+[2024.12.23-02.34.13:574][419]PIE: Play in editor total start time 0.181 seconds.
+[2024.12.23-02.34.24:925][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.34.24:925][ 77]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.34.24:926][ 77]LogSlate: Window 'CourseWork Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.12.23-02.34.24:932][ 77]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.34.24:933][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.34.24:933][ 77]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.23-02.34.24:937][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-02.34.24:944][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.34.24:976][ 77]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.23-02.34.24:977][ 77]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.12.23-02.34.24:977][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.12.23-02.34.24:979][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.12.23-02.34.24:992][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.12.23-02.34.25:126][ 78]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.12.23-02.34.25:126][ 78]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.12.23-02.34.25:127][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2024.12.23-02.35.22:657][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.12.23-02.35.22:667][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/GP/XRGELACPJBVA70N5VK8D7O_Auto3
+[2024.12.23-02.35.22:667][384]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/XRGELACPJBVA70N5VK8D7O_Auto382D7E4A24EBB0F1761DF3A8D98D1C7AB.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/GP/XRGELACPJBVA70N5VK8D7O_Auto3.uasset'
+[2024.12.23-02.35.22:668][384]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.037
+[2024.12.23-02.35.22:668][384]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2024.12.23-02.35.22:668][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Zombie/BP_Zombie1] ([2] browsable assets)...
+[2024.12.23-02.35.22:668][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/BP_Zombie1]
+[2024.12.23-02.35.22:682][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Zombie/BP_Zombie1_Auto3
+[2024.12.23-02.35.22:682][384]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/BP_Zombie1_Auto372DC961242AE7230250E33B4166A89A1.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/Autosaves/Game/Characters/Zombie/BP_Zombie1_Auto3.uasset'
+[2024.12.23-02.35.22:683][384]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.12.23-02.35.26:612][619]LogEditorTransaction: Undo Straighten Connection(s)
+[2024.12.23-02.35.27:073][619]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.23-02.35.27:075][619]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.23-02.35.27:082][619]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.23-02.35.31:244][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.12.23-02.35.31:764][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.35.31:842][867]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Zombie/BP_Zombie1] ([2] browsable assets)...
+[2024.12.23-02.35.31:846][867]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1]
+[2024.12.23-02.35.31:846][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/BP_Zombie1]
+[2024.12.23-02.35.31:846][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/BP_Zombie1" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset" SILENT=true
+[2024.12.23-02.35.31:860][867]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/BP_Zombie1
+[2024.12.23-02.35.31:861][867]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/BP_Zombie114B48E8D45646095473F9F9D7A5F0984.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset'
+[2024.12.23-02.35.31:872][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.492 ms (total: 4.56 sec)
+[2024.12.23-02.35.31:960][867]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.35.31:960][867]LogContentValidation: Enabled validators:
+[2024.12.23-02.35.31:960][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.35.31:960][867]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.35.31:960][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.35.31:960][867]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.35.31:960][867]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.35.31:960][867]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.35.31:960][867]AssetCheck: /Game/Characters/Zombie/BP_Zombie1 Validating asset
+[2024.12.23-02.36.27:541][192]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6606.250000
+[2024.12.23-02.36.27:757][205]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.23-02.36.27:757][205]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6606.449707, Update Interval: 308.772858
+[2024.12.23-02.37.40:733][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.12.23-02.37.41:187][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.37.41:258][423]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Zombie/BP_Zombie1] ([2] browsable assets)...
+[2024.12.23-02.37.41:263][423]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1]
+[2024.12.23-02.37.41:263][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/BP_Zombie1]
+[2024.12.23-02.37.41:263][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/BP_Zombie1" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset" SILENT=true
+[2024.12.23-02.37.41:277][423]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/BP_Zombie1
+[2024.12.23-02.37.41:277][423]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/BP_Zombie1F6F5C64C4B57953232B0079B4A2C0599.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset'
+[2024.12.23-02.37.41:287][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.242 ms (total: 4.66 sec)
+[2024.12.23-02.37.41:376][423]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.37.41:376][423]LogContentValidation: Enabled validators:
+[2024.12.23-02.37.41:376][423]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.37.41:376][423]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.37.41:376][423]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.37.41:376][423]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.37.41:376][423]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.37.41:376][423]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.37.41:376][423]AssetCheck: /Game/Characters/Zombie/BP_Zombie1 Validating asset
+[2024.12.23-02.37.43:198][527]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.23-02.37.43:207][527]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.23-02.37.43:207][527]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.23-02.37.43:210][527]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.205 ms (total: 61.629 ms)
+[2024.12.23-02.37.43:210][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-02.37.43:210][527]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.37.43:214][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004373s)
+[2024.12.23-02.37.43:214][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004405s)
+[2024.12.23-02.37.43:239][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.12.23-02.37.43:247][527]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.23-02.37.43:249][527]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.23-02.37.43:249][527]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.23-02.37.43:249][527]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.23-02.37.43:249][527]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.23-02.37.43:251][527]LogWorldPartition: Display: WorldPartition initialize took 1.553 ms (total: 173.459 ms)
+[2024.12.23-02.37.43:251][527]LogPlayLevel: PIE: World Init took: (0.003386s)
+[2024.12.23-02.37.43:252][527]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.12.23-02.37.43:252][527]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-02.37.43:252][527]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-02.37.43:252][527]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-02.37.43:252][527]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-02.37.43:252][527]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-02.37.43:252][527]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-02.37.43:252][527]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-02.37.43:252][527]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-02.37.43:252][527]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-02.37.43:252][527]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-02.37.43:252][527]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-02.37.43:254][527]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-02.37.43:301][527]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.23-02.37.43:301][527]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-02.37.43:301][527]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-02.37.43:301][527]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-02.37.43:301][527]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.12.23-02.37.43:301][527]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.12.23-02.37.43:304][527]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.12.23-02.37.43:304][527]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.12.23-02.37.43:304][527]LogInit: FAudioDevice initialized with ID 25.
+[2024.12.23-02.37.43:304][527]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonMap'.
+[2024.12.23-02.37.43:304][527]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.12.23-02.37.43:307][527]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-02.37.43:310][527]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.23-04.37.43
+[2024.12.23-02.37.43:310][527]LogWorld: Bringing up level for play took: 0.003102
+[2024.12.23-02.37.43:313][527]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2024.12.23-02.37.43:317][527]PIE: Server logged in
+[2024.12.23-02.37.43:318][527]PIE: Play in editor total start time 0.111 seconds.
+[2024.12.23-02.37.50:951][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.37.50:951][980]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.37.50:952][980]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.37.50:952][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.37.50:952][980]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.23-02.37.50:956][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-02.37.50:961][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.37.50:987][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.37.50:987][980]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.12.23-02.37.50:987][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.12.23-02.37.50:989][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.12.23-02.37.50:999][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.12.23-02.37.51:137][981]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2024.12.23-02.38.05:784][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.12.23-02.38.06:173][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.38.06:253][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Zombie/BP_Zombie] ([2] browsable assets)...
+[2024.12.23-02.38.06:257][848]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie]
+[2024.12.23-02.38.06:257][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/BP_Zombie]
+[2024.12.23-02.38.06:257][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/BP_Zombie" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie.uasset" SILENT=true
+[2024.12.23-02.38.06:270][848]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/BP_Zombie
+[2024.12.23-02.38.06:271][848]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/BP_Zombie1E39B6494BD4B595B9F7D3B37E6F2528.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie.uasset'
+[2024.12.23-02.38.06:282][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.007 ms (total: 4.76 sec)
+[2024.12.23-02.38.06:368][848]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.38.06:368][848]LogContentValidation: Enabled validators:
+[2024.12.23-02.38.06:368][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.38.06:368][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.38.06:368][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.38.06:368][848]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.38.06:368][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.38.06:368][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.38.06:368][848]AssetCheck: /Game/Characters/Zombie/BP_Zombie Validating asset
+[2024.12.23-02.38.07:806][930]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.23-02.38.07:815][930]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.23-02.38.07:815][930]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.23-02.38.07:817][930]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.203 ms (total: 63.833 ms)
+[2024.12.23-02.38.07:818][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-02.38.07:857][930]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.38.07:862][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004250s)
+[2024.12.23-02.38.07:862][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004292s)
+[2024.12.23-02.38.07:886][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.12.23-02.38.07:896][930]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.23-02.38.07:898][930]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.23-02.38.07:898][930]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.23-02.38.07:898][930]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.23-02.38.07:898][930]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.23-02.38.07:900][930]LogWorldPartition: Display: WorldPartition initialize took 1.603 ms (total: 175.062 ms)
+[2024.12.23-02.38.07:900][930]LogPlayLevel: PIE: World Init took: (0.003373s)
+[2024.12.23-02.38.07:901][930]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.12.23-02.38.07:901][930]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-02.38.07:901][930]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-02.38.07:901][930]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-02.38.07:901][930]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-02.38.07:901][930]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-02.38.07:901][930]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-02.38.07:901][930]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-02.38.07:901][930]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-02.38.07:901][930]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-02.38.07:901][930]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-02.38.07:901][930]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-02.38.07:903][930]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-02.38.07:950][930]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.23-02.38.07:950][930]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-02.38.07:950][930]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-02.38.07:950][930]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-02.38.07:950][930]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.12.23-02.38.07:951][930]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.12.23-02.38.07:954][930]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.12.23-02.38.07:954][930]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.12.23-02.38.07:954][930]LogInit: FAudioDevice initialized with ID 26.
+[2024.12.23-02.38.07:954][930]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonMap'.
+[2024.12.23-02.38.07:954][930]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.12.23-02.38.07:957][930]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-02.38.07:959][930]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.23-04.38.07
+[2024.12.23-02.38.07:960][930]LogWorld: Bringing up level for play took: 0.002704
+[2024.12.23-02.38.07:962][930]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.12.23-02.38.07:966][930]PIE: Server logged in
+[2024.12.23-02.38.07:967][930]PIE: Play in editor total start time 0.152 seconds.
+[2024.12.23-02.38.22:823][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.38.22:823][817]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.38.22:823][817]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.38.22:824][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.38.22:824][817]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.23-02.38.22:828][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-02.38.22:833][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.38.22:856][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.23-02.38.22:856][817]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.12.23-02.38.22:856][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.12.23-02.38.22:859][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.12.23-02.38.22:865][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.38.22:868][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.12.23-02.38.23:020][818]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.12.23-02.38.39:372][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.12.23-02.38.40:387][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.38.40:475][804]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Zombie/BP_Zombie] ([2] browsable assets)...
+[2024.12.23-02.38.40:480][804]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie]
+[2024.12.23-02.38.40:480][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/BP_Zombie]
+[2024.12.23-02.38.40:480][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/BP_Zombie" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie.uasset" SILENT=true
+[2024.12.23-02.38.40:494][804]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/BP_Zombie
+[2024.12.23-02.38.40:495][804]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/BP_Zombie192A6F8247C40323D38AC7B6886EB06B.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie.uasset'
+[2024.12.23-02.38.40:505][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.970 ms (total: 4.88 sec)
+[2024.12.23-02.38.40:592][804]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.38.40:592][804]LogContentValidation: Enabled validators:
+[2024.12.23-02.38.40:592][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.38.40:592][804]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.38.40:592][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.38.40:592][804]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.38.40:592][804]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.38.40:592][804]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.38.40:592][804]AssetCheck: /Game/Characters/Zombie/BP_Zombie Validating asset
+[2024.12.23-02.38.51:574][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.12.23-02.38.52:068][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.38.52:148][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Zombie/BP_Zombie1] ([2] browsable assets)...
+[2024.12.23-02.38.52:153][457]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1]
+[2024.12.23-02.38.52:153][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/BP_Zombie1]
+[2024.12.23-02.38.52:153][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/BP_Zombie1" FILE="../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset" SILENT=true
+[2024.12.23-02.38.52:167][457]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/BP_Zombie1
+[2024.12.23-02.38.52:168][457]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/BP_Zombie100CAB0FE4F4E7AFF8DB19E8DC6B04C21.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/Characters/Zombie/BP_Zombie1.uasset'
+[2024.12.23-02.38.52:178][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.569 ms (total: 4.99 sec)
+[2024.12.23-02.38.52:271][457]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.23-02.38.52:271][457]LogContentValidation: Enabled validators:
+[2024.12.23-02.38.52:271][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.38.52:271][457]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.38.52:271][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.38.52:271][457]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.38.52:271][457]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.38.52:271][457]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.38.52:271][457]AssetCheck: /Game/Characters/Zombie/BP_Zombie1 Validating asset
+[2024.12.23-02.38.53:681][536]Cmd: POLY SELECT MEMORY UNION
+[2024.12.23-02.38.56:528][688]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1_C
+[2024.12.23-02.38.56:528][688]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1_C
+[2024.12.23-02.38.56:530][688]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1 as actor: BP_Zombie1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie1_C_1
+[2024.12.23-02.38.56:531][688]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1 as actor: BP_Zombie1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie1_C_1
+[2024.12.23-02.38.57:119][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.12.23-02.38.57:192][710]LogEditorActor: Deleted 0 Actors (0.095 secs)
+[2024.12.23-02.38.57:200][710]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1_C
+[2024.12.23-02.38.57:200][710]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1_C
+[2024.12.23-02.38.57:204][710]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1 as actor: BP_Zombie1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie1_C_UAID_7C8AE1A595B67F3B02_1360865155
+[2024.12.23-02.38.57:206][710]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie1.BP_Zombie1 as actor: BP_Zombie1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Zombie1_C_UAID_7C8AE1A595B67F3B02_1360865155
+[2024.12.23-02.38.59:453][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.38.59:565][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.12.23-02.38.59:591][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.23-02.38.59:614][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.23-02.38.59:619][827]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/GP/XRGELACPJBVA70N5VK8D7O
+[2024.12.23-02.38.59:619][827]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/XRGELACPJBVA70N5VK8D7O8D8104164468468E89797F8F686EB3C2.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/GP/XRGELACPJBVA70N5VK8D7O.uasset'
+[2024.12.23-02.38.59:622][827]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IB/9SN18QMTUW89TIME0J3OSR
+[2024.12.23-02.38.59:622][827]LogSavePackage: Moving '../../../../../../Users/daiiv/Desktop/CourseWork/Saved/9SN18QMTUW89TIME0J3OSR7C2E62C9452475A9D671C4B36BE3FE11.tmp' to '../../../../../../Users/daiiv/Desktop/CourseWork/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IB/9SN18QMTUW89TIME0J3OSR.uasset'
+[2024.12.23-02.38.59:636][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.447 ms (total: 5.18 sec)
+[2024.12.23-02.38.59:732][827]LogContentValidation: Display: Starting to validate 2 assets
+[2024.12.23-02.38.59:732][827]LogContentValidation: Enabled validators:
+[2024.12.23-02.38.59:732][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.23-02.38.59:732][827]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.23-02.38.59:732][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.23-02.38.59:732][827]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.23-02.38.59:732][827]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.23-02.38.59:732][827]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.23-02.38.59:732][827]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2024.12.23-02.39.00:220][853]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.23-02.39.00:230][853]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.23-02.39.00:230][853]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.23-02.39.00:232][853]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.202 ms (total: 66.035 ms)
+[2024.12.23-02.39.00:232][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.23-02.39.00:272][853]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.39.00:278][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004729s)
+[2024.12.23-02.39.00:278][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004776s)
+[2024.12.23-02.39.00:302][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.12.23-02.39.00:309][853]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.23-02.39.00:311][853]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.23-02.39.00:311][853]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.23-02.39.00:311][853]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.23-02.39.00:311][853]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.23-02.39.00:312][853]LogWorldPartition: Display: WorldPartition initialize took 1.620 ms (total: 176.682 ms)
+[2024.12.23-02.39.00:312][853]LogPlayLevel: PIE: World Init took: (0.003552s)
+[2024.12.23-02.39.00:313][853]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.12.23-02.39.00:313][853]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.23-02.39.00:313][853]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.23-02.39.00:313][853]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.23-02.39.00:313][853]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.23-02.39.00:313][853]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.23-02.39.00:313][853]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.23-02.39.00:313][853]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.23-02.39.00:313][853]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.23-02.39.00:313][853]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.23-02.39.00:313][853]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.23-02.39.00:313][853]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.23-02.39.00:315][853]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.23-02.39.00:364][853]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.23-02.39.00:364][853]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.23-02.39.00:365][853]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.23-02.39.00:365][853]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.23-02.39.00:366][853]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.12.23-02.39.00:366][853]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.12.23-02.39.00:368][853]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.12.23-02.39.00:368][853]LogInit: FAudioDevice initialized with ID 27.
+[2024.12.23-02.39.00:368][853]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.12.23-02.39.00:368][853]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonMap'.
+[2024.12.23-02.39.00:368][853]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.12.23-02.39.00:371][853]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.23-02.39.00:374][853]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.12.23-04.39.00
+[2024.12.23-02.39.00:375][853]LogWorld: Bringing up level for play took: 0.003686
+[2024.12.23-02.39.00:378][853]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2024.12.23-02.39.00:381][853]PIE: Server logged in
+[2024.12.23-02.39.00:383][853]PIE: Play in editor total start time 0.153 seconds.
+[2024.12.23-02.39.43:313][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.39.43:313][423]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.23-02.39.43:313][423]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.23-02.39.43:314][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.39.43:314][423]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.23-02.39.43:318][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.23-02.39.43:325][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.23-02.39.43:350][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.23-02.39.43:350][423]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.12.23-02.39.43:350][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.12.23-02.39.43:353][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.12.23-02.39.43:361][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.12.23-02.39.43:418][424]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2024.12.23-02.39.45:583][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.23-02.39.45:690][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.12.23-02.39.45:712][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.23-02.39.45:735][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.23-02.39.45:746][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.788 ms (total: 5.34 sec)
